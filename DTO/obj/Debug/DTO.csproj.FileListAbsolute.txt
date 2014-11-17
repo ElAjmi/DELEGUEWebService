@@ -1,0 +1,5 @@
+c:\users\mahmoud\documents\visual studio 2010\Projects\DelegueWebService\DTO\bin\Debug\DTO.dll
+c:\users\mahmoud\documents\visual studio 2010\Projects\DelegueWebService\DTO\bin\Debug\DTO.pdb
+c:\users\mahmoud\documents\visual studio 2010\Projects\DelegueWebService\DTO\obj\Debug\DTO.dll
+c:\users\mahmoud\documents\visual studio 2010\Projects\DelegueWebService\DTO\obj\Debug\DTO.pdb
+C:\Users\mahmoud\documents\visual studio 2010\Projects\DelegueWebService\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache

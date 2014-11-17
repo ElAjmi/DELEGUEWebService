@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DelegueWebService", "DelegueWebService\DelegueWebService.csproj", "{2C7688C6-341D-4B36-83F8-2487510987B8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Service", "Service\Service.csproj", "{62127D08-4D86-4C27-8E63-BDE4EC781FD5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DTO", "DTO\DTO.csproj", "{3587DD39-AD12-4693-B1C8-8B63181D98FD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2C7688C6-341D-4B36-83F8-2487510987B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C7688C6-341D-4B36-83F8-2487510987B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C7688C6-341D-4B36-83F8-2487510987B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C7688C6-341D-4B36-83F8-2487510987B8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{62127D08-4D86-4C27-8E63-BDE4EC781FD5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62127D08-4D86-4C27-8E63-BDE4EC781FD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62127D08-4D86-4C27-8E63-BDE4EC781FD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62127D08-4D86-4C27-8E63-BDE4EC781FD5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3587DD39-AD12-4693-B1C8-8B63181D98FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3587DD39-AD12-4693-B1C8-8B63181D98FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3587DD39-AD12-4693-B1C8-8B63181D98FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3587DD39-AD12-4693-B1C8-8B63181D98FD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,9 @@
+c:\users\mahmoud\documents\visual studio 2010\Projects\DelegueWebService\DelegueWebService\bin\DelegueWebService.dll
+c:\users\mahmoud\documents\visual studio 2010\Projects\DelegueWebService\DelegueWebService\bin\DelegueWebService.pdb
+c:\users\mahmoud\documents\visual studio 2010\Projects\DelegueWebService\DelegueWebService\obj\Debug\DelegueWebService.dll
+c:\users\mahmoud\documents\visual studio 2010\Projects\DelegueWebService\DelegueWebService\obj\Debug\DelegueWebService.pdb
+c:\users\mahmoud\documents\visual studio 2010\Projects\DelegueWebService\DelegueWebService\bin\Service.dll
+c:\users\mahmoud\documents\visual studio 2010\Projects\DelegueWebService\DelegueWebService\bin\Service.pdb
+c:\users\mahmoud\documents\visual studio 2010\Projects\DelegueWebService\DelegueWebService\obj\Debug\DelegueWebService.csprojResolveAssemblyReference.cache
+c:\users\mahmoud\documents\visual studio 2010\Projects\DelegueWebService\DelegueWebService\bin\DTO.dll
+c:\users\mahmoud\documents\visual studio 2010\Projects\DelegueWebService\DelegueWebService\bin\DTO.pdb
